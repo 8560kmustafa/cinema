@@ -7,6 +7,7 @@ This guide helps you navigate our newly launched website: _cinema.com_
 1) Initial navigations
 2) General features
 3) Navigation
+4) Design diagrams
 
 #### **Initial navigations**
 1. Launch to homepage\
@@ -40,6 +41,11 @@ Select our movie page to dive deeper into genres, your favourite movies, and use
 
 3. Customer service help\
 Encountering issues? Select customer service tab to get guided help.
+
+#### Design diagrams
+The following are the architectural and user interface diagrams for _cinema.com_.
+-[Architectural Diagram](designs/architectural_design.png)\
+[User Interface Diagram](designs/userinterface_design.png)
 
 ## **We value your feedback!**
 Encountering software issues? [Contact our support team](support@cinemas.com).
